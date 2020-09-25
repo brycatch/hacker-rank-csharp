@@ -7,7 +7,7 @@ namespace HackerRank
   {
     static void Main(string[] args)
     {
-      PlusMinus.Main(new int[] { 1, -1, 4, 0, 0, -2, -5 });
+      Staircase.Main(6);
     }
   }
 
